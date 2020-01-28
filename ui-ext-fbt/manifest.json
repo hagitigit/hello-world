@@ -1,0 +1,14 @@
+{
+	"name": "ui.ext.addon.demo",
+	"description": "ui extension for demo",
+	"namespace": "sap.ui.ext.demo",
+
+	"views": [{
+			"uuid": "fb229f12-b37f-4215-8550-df1889e5bf59",
+			"file": "Items_Detail_sample.js",
+			"layout": "Items_Detail_sample.xml",
+			"defaultEnabled": true,
+			"description": "Items Detail View"
+		}
+	]
+}
